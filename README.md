@@ -19,3 +19,4 @@ This repository contains the backend development laboratory assignments and proj
   - Express.js application connected to SQLite database (`database.db`).
   - 5 standard CRUD endpoints (`GET /books`, `POST /books`, `GET /books/:bookId`, `PUT /books/:bookId`, `DELETE /books/:bookId`).
   - Parameterized SQL queries and schema seeding (`seed.sql`).
+
