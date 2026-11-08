@@ -265,3 +265,4 @@ In JavaScript's event loop, I/O operations (reading from disk or querying a data
 | Missing Module | `MODULE_NOT_FOUND` | Missing `./` in path | Use explicit relative path `./database` |
 | Table Typo | `no such table: books` | Query uses wrong table name | Match exact `book` table name from schema |
 | Missing `await` | Returns `{}` or wrong status | Promise not resolved | Always `await` async database driver calls |
+

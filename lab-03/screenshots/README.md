@@ -42,3 +42,4 @@ Capture each Postman / terminal response and save it under the exact filename li
 | 23 | `23-import-error.png` | Module not found error | `require('database')` without `./` | Terminal output |
 | 24 | `24-table-error.png` | SQLite table typo error | `SELECT * FROM books` (plural typo) | 500 Error |
 | 25 | `25-missing-await.png` | Missing await debugging demonstration | Calling `db.get()` without `await` | Output / Response |
+

@@ -575,3 +575,4 @@ Lab 3 successfully expands upon foundational backend development by incorporatin
 - Thorough debugging strategies
 
 The architecture maintains a clear separation of concerns between database initialization (`database.js`) and route handling (`server.js`), ensuring beginner-friendly maintainability for university practical examinations and production deployment.
+
